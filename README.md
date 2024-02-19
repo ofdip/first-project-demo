@@ -1,2 +1,3 @@
 # first-project-demo
-my first project author - ofdip
+my first project\n
+author - ofdip
